@@ -1,0 +1,74 @@
+[
+	{
+		"title":"Saving Private Ryan",
+		"timesWatched":10,
+		"resolution":"1080p",
+		"path":"C:/myMovies/savingPrivateRyan.avi",
+		"language":"English",
+		"sizeInMb":600,
+		"pendingToWatch":false
+	},
+	{
+		"title":"Bohemian Rhapsody",
+		"timesWatched":10,
+		"resolution":"1080p",
+		"path":"C:/myMovies/bohemianRhapsody.avi",
+		"language":"English",
+		"sizeInMb":1500,
+		"pendingToWatch":false
+	},
+	{
+		"title":"Green Book",
+		"timesWatched":0,
+		"resolution":"1080p",
+		"path":"C:/myMovies/greenBook.avi",
+		"language":"English",
+		"sizeInMb":1500,
+		"pendingToWatch":true
+	},
+	{
+		"title":"Captain America",
+		"timesWatched":1,
+		"resolution":"1080p",
+		"path":"C:/myMovies/captainAmerica.avi",
+		"language":"English",
+		"sizeInMb":1234,
+		"pendingToWatch":false
+	},
+	{
+		"title":"El dia de la bestia",
+		"timesWatched":2,
+		"resolution":"720p",
+		"path":"C:/myMovies/elDiaDeLaBestia.avi",
+		"language":"Spanish",
+		"sizeInMb":1450,
+		"pendingToWatch":false
+	},
+	{
+		"title":"Day of the Dead",
+		"timesWatched":1,
+		"resolution":"720p",
+		"path":"C:/myMovies/dayOfTheDead.avi",
+		"language":"English",
+		"sizeInMb":300,
+		"pendingToWatch":false
+	},
+	{
+		"title":"Pride and prejudice",
+		"timesWatched":0,
+		"resolution":"480p",
+		"path":"C:/myMovies/prideAndPrejudice.avi",
+		"language":"English",
+		"sizeInMb":250,
+		"pendingToWatch":true
+	},
+	{
+		"title":"Infinity war",
+		"timesWatched":1,
+		"resolution":"1080p",
+		"path":"C:/myMovies/infinityWar.avi",
+		"language":"English",
+		"sizeInMb":2048,
+		"pendingToWatch":false
+	}
+]
